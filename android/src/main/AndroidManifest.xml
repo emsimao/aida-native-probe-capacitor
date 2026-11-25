@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Gyroscope is optional: the plugin reports NO_SENSOR instead of blocking installation. -->
+    <uses-feature android:name="android.hardware.sensor.gyroscope" android:required="false" />
+</manifest>
